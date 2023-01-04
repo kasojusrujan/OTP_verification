@@ -1,6 +1,9 @@
 # React-Node-Passwordless-Auth
 Passwordless Authentication of User in Node(express) and React using JWT and Twilio SMS API without and any database for validating OTP
 
+
+# source ~/.nvm/nvm.sh
+
 # .env File
 
 ACCOUNT_SID = AC4e3f5b4632dfa801f44ce42e93175967
